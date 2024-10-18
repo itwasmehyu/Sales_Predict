@@ -1,4 +1,4 @@
-# Sales_Predict
+# Mô hình Linear Regression phục vụ dự đoán
 
 Xây dựng một model với khả năng dự đoán số tiền sẽ spend cho từng method quảng bá sản phẩm
 
